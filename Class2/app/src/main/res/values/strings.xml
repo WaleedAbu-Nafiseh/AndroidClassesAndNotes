@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amazing App</string>
+    <string name="txt_help">Hello World!</string>
+    <string name="BtnName">Click me!!!!</string>
+</resources>
