@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Class6_Library_App</string>
+    <string-array name="langs">
+        <item>Java</item>
+        <item>C++</item>
+        <item>PHP</item>
+        <item>C#</item>
+        <item>Kotlin</item>
+    </string-array>
+</resources>
