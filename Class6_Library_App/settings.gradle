@@ -1,0 +1,2 @@
+rootProject.name='Class6_Library_App'
+include ':app'
